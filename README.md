@@ -1,6 +1,15 @@
 # Front End Design Resources
 A public collection of articles and videos to assist folks in staying up to date with modern technologies, processes and tools.
 
+## User Research
+### Videos
+
+### Articles
+[http://remoteresear.ch/tools/](http://remoteresear.ch/tools/)
+
+### Books
+
+
 ## User Experience (UX)
 ### Videos
 
