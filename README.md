@@ -22,6 +22,7 @@ A public collection of articles and videos to assist folks in staying up to date
 
 ## UI Design
 #### Videos
+- [Design Decisions Through the Lens of Performance by Yesenia Perez-Cruz](http://aneventapart.com/news/post/design-performance-yesenia-perez-cruz-video/)
 
 #### Articles
 
@@ -30,7 +31,7 @@ A public collection of articles and videos to assist folks in staying up to date
 ## Accessibility
 #### Videos
 - [Web accessibility for people with vision impairments](https://www.youtube.com/watch?v=2j2x2miPPDQ&fmt=18&hd=1)
-
+- [Viking & Lumberjack from The Paciello Group](https://www.youtube.com/watch?v=l3eb0DALdnA&list=PL95LOQw9SLWwWL7TOgTf5m3d6B8FPF56x)
 #### Articles
 - [THE VEIL OF IGNORANCE](http://mrmrs.io/writing/2016/03/23/the-veil-of-ignorance/)
 - [The 6 Simplest Web Accessibility Tests Anyone Can Do](http://www.karlgroves.com/2013/09/05/the-6-simplest-web-accessibility-tests-anyone-can-do/)
@@ -46,12 +47,12 @@ A public collection of articles and videos to assist folks in staying up to date
 #### Articles
 
 #### Books
-[HTML and CSS: Design and Build Websites](http://www.amazon.com/HTML-CSS-Design-Build-Websites/dp/1118871642/)
+-[HTML and CSS: Design and Build Websites](http://www.amazon.com/HTML-CSS-Design-Build-Websites/dp/1118871642/)
 
 ## CSS, Less, Sass
 #### Videos
 - [Managing CSS Projects with ITCSS - Harry Roberts](https://www.youtube.com/watch?v=1OKZOV-iLj4)
-- [Evolving Web Applications with Module Based Design Components - Mike Kivikoski](https://www.youtube.com/watch?v=ev3AtyAlwIQ)
+
 
 #### Articles
 - [BEM](https://en.bem.info/)
@@ -70,6 +71,10 @@ A public collection of articles and videos to assist folks in staying up to date
 - [CSS-Tricks](https://css-tricks.com/)
 - [Sass-lang](http://sass-lang.com/guide)
 
+## Pattern Libraries / Style guides
+- [Getting Started With Pattern Libraries](http://alistapart.com/blog/post/getting-started-with-pattern-libraries)
+- [Atmoic Design](http://bradfrost.com/blog/post/atomic-web-design/)
+- [Evolving Web Applications with Module Based Design Components - Mike Kivikoski](https://www.youtube.com/watch?v=ev3AtyAlwIQ)
 
 
 ## Javascript
