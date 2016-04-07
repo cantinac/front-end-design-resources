@@ -16,6 +16,9 @@ A public collection of articles and videos to assist folks in staying up to date
 #### Articles
 
 #### Books
+- [Going Responsive](https://abookapart.com/products/going-responsive)
+- [Responsible Responsive Design](https://abookapart.com/products/responsive-design-patterns-principles)
+- [On Web Typography](https://abookapart.com/products/on-web-typography)
 
 ## UI Design
 #### Videos
@@ -26,10 +29,16 @@ A public collection of articles and videos to assist folks in staying up to date
 
 ## Accessibility
 #### Videos
+- [Web accessibility for people with vision impairments](https://www.youtube.com/watch?v=2j2x2miPPDQ&fmt=18&hd=1)
 
 #### Articles
+- [THE VEIL OF IGNORANCE](http://mrmrs.io/writing/2016/03/23/the-veil-of-ignorance/)
+- [The 6 Simplest Web Accessibility Tests Anyone Can Do](http://www.karlgroves.com/2013/09/05/the-6-simplest-web-accessibility-tests-anyone-can-do/)
 
 #### Books
+
+#### Resources
+- [How to Meet WCAG 2.0](https://www.w3.org/WAI/WCAG20/quickref/)
 
 ## HTML
 #### Videos
@@ -37,29 +46,35 @@ A public collection of articles and videos to assist folks in staying up to date
 #### Articles
 
 #### Books
+[HTML and CSS: Design and Build Websites](http://www.amazon.com/HTML-CSS-Design-Build-Websites/dp/1118871642/)
 
 ## CSS, Less, Sass
 #### Videos
-[Managing CSS Projects with ITCSS - Harry Roberts](https://www.youtube.com/watch?v=1OKZOV-iLj4)
-[Evolving Web Applications with Module Based Design Components - Mike Kivikoski](https://www.youtube.com/watch?v=ev3AtyAlwIQ)
+- [Managing CSS Projects with ITCSS - Harry Roberts](https://www.youtube.com/watch?v=1OKZOV-iLj4)
+- [Evolving Web Applications with Module Based Design Components - Mike Kivikoski](https://www.youtube.com/watch?v=ev3AtyAlwIQ)
 
 #### Articles
-[BEM](https://en.bem.info/)
-[BEM 101](https://css-tricks.com/bem-101/)
-[Get BEM](http://getbem.com/)
-[Single Responsibility Principle](http://csswizardry.com/2012/04/the-single-responsibility-principle-applied-to-css/)
+- [BEM](https://en.bem.info/)
+- [BEM 101](https://css-tricks.com/bem-101/)
+- [Get BEM](http://getbem.com/)
+- [Single Responsibility Principle](http://csswizardry.com/2012/04/the-single-responsibility-principle-applied-to-css/)
 
 #### Books
-[SMACSS](https://smacss.com/book/)
+
+- [SMACSS](https://smacss.com/book/)
+- [CSS3 for Web Designers](https://abookapart.com/products/css3-for-web-designers)
+- [Jump Start CSS](http://www.sitepoint.com/store/jump-start-css/)
+- [Jump Start Sass](https://www.sitepoint.com/premium/books/jump-start-sass)
 
 #### Resources
-[CSS-Tricks](https://css-tricks.com/)
+- [CSS-Tricks](https://css-tricks.com/)
+- [Sass-lang](http://sass-lang.com/guide)
 
 
 
 ## Javascript
 #### Videos
-[Advanced Debugging with Chrome Dev Tools - Wayne Elgin](https://www.youtube.com/watch?v=5Sk5dRX9fxY)
+- [Advanced Debugging with Chrome Dev Tools - Wayne Elgin](https://www.youtube.com/watch?v=5Sk5dRX9fxY)
 
 
 #### Articles
@@ -76,3 +91,4 @@ A public collection of articles and videos to assist folks in staying up to date
 - [https://www.atlassian.com/git/tutorials/comparing-workflows/](https://www.atlassian.com/git/tutorials/comparing-workflows/)
 
 #### Books
+[GIT for Humans](https://abookapart.com/products/git-for-humans)
