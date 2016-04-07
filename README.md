@@ -24,6 +24,13 @@ A public collection of articles and videos to assist folks in staying up to date
 
 #### Books
 
+## Accessibility
+#### Videos
+
+#### Articles
+
+#### Books
+
 ## HTML
 #### Videos
 
@@ -32,9 +39,28 @@ A public collection of articles and videos to assist folks in staying up to date
 #### Books
 
 ## CSS, Less, Sass
+#### Videos
+[Managing CSS Projects with ITCSS - Harry Roberts](https://www.youtube.com/watch?v=1OKZOV-iLj4)
+[Evolving Web Applications with Module Based Design Components - Mike Kivikoski](https://www.youtube.com/watch?v=ev3AtyAlwIQ)
+
+#### Articles
+[BEM](https://en.bem.info/)
+[BEM 101](https://css-tricks.com/bem-101/)
+[Get BEM](http://getbem.com/)
+[Single Responsibility Principle](http://csswizardry.com/2012/04/the-single-responsibility-principle-applied-to-css/)
+
+#### Books
+[SMACSS](https://smacss.com/book/)
+
+#### Resources
+[CSS-Tricks](https://css-tricks.com/)
+
+
 
 ## Javascript
 #### Videos
+[Advanced Debugging with Chrome Dev Tools - Wayne Elgin](https://www.youtube.com/watch?v=5Sk5dRX9fxY)
+
 
 #### Articles
 
