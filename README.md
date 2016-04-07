@@ -6,7 +6,7 @@ A public collection of articles and videos to assist folks in staying up to date
 
 ### Articles
 [http://remoteresear.ch/tools/](http://remoteresear.ch/tools/)
-Hi Sam! :wave:  Hi Mike, new branch
+
 
 ### Books
 
