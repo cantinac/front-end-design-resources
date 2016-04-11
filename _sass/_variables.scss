@@ -1,0 +1,39 @@
+@import 'functions';
+
+$text-color: $grey-dark;
+$site-wrapper-max-width: 65rem;
+$site-sm-wrapper-max-width: 45rem;
+
+/**
+ * Font Sizes
+ */
+
+// Sizes (px)
+$font-base-size: 16px;
+
+// Sizes (rem)
+$giga: 6rem;
+$mega: 3.25rem;
+$alpha: 2.5rem;
+$beta: 1.75rem;
+$gamma: 1.375rem;
+$delta: 1.1875rem;
+$epsilon: 1rem;
+$zeta: 0.875rem;
+$eta: 0.75rem;
+
+/**
+ * Font Families
+ */
+
+$font-body: "Lato", "Helvetica", "Arial", sans-serif;
+$font-heading: "BigNoodleTitling", "Helvetica", Arial, sans-serif;
+$font-heading-oblique: "BigNoodleTitling-Oblique", "Helvetica", Arial, sans-serif;
+
+/**
+ * Font Weights
+ */
+
+$weight-heading: 200;
+$weight-regular: 400;
+$weight-bold: 700;
