@@ -114,4 +114,4 @@ A public collection of articles and videos to assist folks in staying up to date
 
 #### Books
 
-[GIT for Humans](https://abookapart.com/products/git-for-humans)
+- [GIT for Humans](https://abookapart.com/products/git-for-humans)
