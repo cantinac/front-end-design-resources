@@ -1,0 +1,38 @@
+@function rem($size) {
+  $remSize: $size / $font-base-size;
+  @return #{$remSize}rem;
+}
+
+@mixin img-fluid($display: block) {
+  max-width: 100%;
+  height: auto;
+  display: $display;
+}
+
+@mixin prefix($name, $argument) {
+  -webkit-#{$name}: #{$argument};
+  -ms-#{$name}: #{$argument};
+  -moz-#{$name}: #{$argument};
+  -o-#{$name}: #{$argument};
+  #{$name}: #{$argument};
+}
+
+@mixin prefix-value($name, $argument) {
+  #{$name}: -webkit-#{$argument};
+  #{$name}: -ms-#{$argument};
+  #{$name}: -moz-#{$argument};
+  #{$name}: -o-#{$argument};
+  #{$name}: #{$argument};
+}
+
+
+@mixin clearfix() {
+  &:before,
+  &:after {
+    content: " ";
+    display: table;
+  }
+  &:after {
+    clear: both;
+  }
+}

@@ -1,0 +1,30 @@
+html,
+body {
+    min-height: 100%;
+}
+
+html, body {
+    font-family: $font-body;
+    font-weight: $weight-regular;
+    font-size: $font-base-size;
+    line-height: 1.6;
+
+    @media screen and (min-width: 50em) {
+        font-size: 1.25 * $font-base-size;
+    }
+}
+
+body {
+    letter-spacing: 0.02em;
+    color: $text-color;
+    &.noscroll {
+        position: fixed;
+        overflow: hidden;
+        height: 100%;
+        width: 100%;
+    }
+}
+
+.svg-sprite {
+    display: none;
+}

@@ -1,0 +1,62 @@
+/*
+Color Variables
+ */
+
+$yellow: #FFD600;
+$orange: #FFA200;
+$orange-mid: #FF7900;
+$red-orange: #FF5D00;
+$blue-xlight: #41B7E5;
+$blue-light: #2999EB;
+$blue-mid: #417AE5;
+$blue-dark: #4159AB;
+$white: #ffffff;
+$grey-xlight: #f5f5f5;
+$grey-light: #d7d7d7;
+$grey-mid: #737373;
+$grey-dark: #4A4A4A;
+$grey-xdark: #222222;
+$black: #000000;
+
+$colorMap: (
+  'yellow': $yellow,
+  'orange': $orange,
+  'orange-mid': $orange-mid,
+  'red-orange': $red-orange,
+  'blue-xlight': $blue-xlight,
+  'blue-light': $blue-light,
+  'blue-mid': $blue-mid,
+  'blue-dark': $blue-dark,
+  'white': $white,
+  'grey-xlight': $grey-xlight,
+  'grey-light': $grey-light,
+  'grey-mid': $grey-mid,
+  'grey-xdark': $grey-xdark,
+  'grey-dark': $grey-dark,
+  'black': $black
+);
+
+
+/**
+ * Backgrounds
+ */
+
+@each $colorName, $colorVal in $colorMap {
+  // Background
+  .bg-#{$colorName} {
+    background: $colorVal;
+  }
+
+  // Color
+  .#{$colorName} {
+    color: $colorVal;
+  }
+}
+
+/**
+ * Code
+ */
+
+// Match highlight JS colors - Theme: Zenburn
+$code-bg: #3f3f3f;
+$code-color: #dcdcdc;

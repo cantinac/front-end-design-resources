@@ -1,0 +1,40 @@
+/**
+ * @license
+ * MyFonts Webfont Build ID 3063620, 2015-07-23T15:39:24-0400
+ *
+ * The fonts listed in this notice are subject to the End User License
+ * Agreement(s) entered into by the website owner. All other parties are
+ * explicitly restricted from using the Licensed Webfonts(s).
+ *
+ * You may obtain a valid license at the URLs below.
+ *
+ * Webfont: BigNoodleTitling-Oblique by Sentinel Type
+ * URL: http://www.myfonts.com/fonts/sentinel/big-noodle-titling/oblique/
+ *
+ * Webfont: BigNoodleBlockTitling by Sentinel Type
+ * URL: http://www.myfonts.com/fonts/sentinel/big-noodle-titling/block-oblique/
+ *
+ * Webfont: BigNoodleTitling by Sentinel Type
+ * URL: http://www.myfonts.com/fonts/sentinel/big-noodle-titling/regular/
+ *
+ *
+ * License: http://www.myfonts.com/viewlicense?type=web&buildid=3063620
+ * Licensed pageviews: 20,000
+ * Webfonts copyright: Copyright (c) James Arboghast/Sentinel Type, 2003. All rights reserved. Published 2008 by S E N T I N E L  T Y P E. This font is authorized for use by Sentinel Type licensees only &amp; may not be copied or distributed. Read enclosed text file for details
+ *
+ * © 2015 MyFonts Inc
+*/
+
+
+/* @import must be at top of file, otherwise CSS will not work */
+@import url("//hello.myfonts.net/count/2ebf44");
+
+
+@font-face {font-family: 'BigNoodleTitling-Oblique';src: url('2EBF44_0_0.eot');src: url('2EBF44_0_0.eot?#iefix') format('embedded-opentype'),url('2EBF44_0_0.woff2') format('woff2'),url('2EBF44_0_0.woff') format('woff'),url('2EBF44_0_0.ttf') format('truetype');}
+
+
+@font-face {font-family: 'BigNoodleBlockTitling';src: url('2EBF44_1_0.eot');src: url('2EBF44_1_0.eot?#iefix') format('embedded-opentype'),url('2EBF44_1_0.woff2') format('woff2'),url('2EBF44_1_0.woff') format('woff'),url('2EBF44_1_0.ttf') format('truetype');}
+
+
+@font-face {font-family: 'BigNoodleTitling';src: url('2EBF44_2_0.eot');src: url('2EBF44_2_0.eot?#iefix') format('embedded-opentype'),url('2EBF44_2_0.woff2') format('woff2'),url('2EBF44_2_0.woff') format('woff'),url('2EBF44_2_0.ttf') format('truetype');}
+
