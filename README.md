@@ -42,6 +42,8 @@ A public collection of articles and videos to assist folks in staying up to date
 
 - [THE VEIL OF IGNORANCE](http://mrmrs.io/writing/2016/03/23/the-veil-of-ignorance/)
 - [The 6 Simplest Web Accessibility Tests Anyone Can Do](http://www.karlgroves.com/2013/09/05/the-6-simplest-web-accessibility-tests-anyone-can-do/)
+- [Hidden content for better a11y](http://gomakethings.com/hidden-content-for-better-a11y/)
+
 
 #### Resources
 - [How to Meet WCAG 2.0](https://www.w3.org/WAI/WCAG20/quickref/)
